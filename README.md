@@ -11,9 +11,12 @@ The Mission to Mars WebApp was developed to scrape data from various websites us
 
 The following updates were also added to improve on the design, layout, and functionality of the original WebApp: 
 
-- "Scape New Data" button colour change to align with the theme of the red planet.[(ref:Line 19)](templates/index.html)
-- Highlighted container for the "Latest Mars News" to capture the user’s attention. [(ref:Line 24)](templates/index.html)
-- Adjusted Hemisphere image sizes responsiveness to ensure proper visibility on various devices.[(ref:Line 64, 66)](templates/index.html)
+- "Scape New Data" button colour change to align with the theme of the red planet.
+  - [(ref:Line 19)](templates/index.html)
+- Highlighted container for the "Latest Mars News" to capture the user’s attention. 
+  - [(ref:Line 24)](templates/index.html)
+- Adjusted Hemisphere image sizes responsiveness to ensure proper visibility on various devices.
+  - [(ref:Line 64, 66)](templates/index.html)
 
 ## Resources 
 
