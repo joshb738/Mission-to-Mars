@@ -28,3 +28,14 @@ Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5, Visual Studio Code 1.54.1
   - [scraping.py](scraping.py)
   - [app.py](app.py)
   - [index.html](templates/index.html)
+
+## Preview
+
+<p align="left">
+  <img src="Resources/WebApp_preview_1.PNG" width="900"/>
+</p>
+
+
+<p align="left">
+  <img src="Resources/WebApp_preview_2.PNG" width="900"/>
+</p>
