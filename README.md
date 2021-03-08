@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Mission to Mars WebApp was developed to scrape data from various websites using BeautifulSoup and Splinter to provide the user with the following data:
+The Mission to Mars WebApp was developed to scrape various websites using BeautifulSoup and Splinter to provide the user with the following data:
 
 - Latest news regarding Mars provided by NASA.
 - A featured Image of Mars provided by JPL at the California Institute of Technology
