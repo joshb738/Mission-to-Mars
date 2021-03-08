@@ -15,7 +15,7 @@ The following updates were also added to improve on the design, layout, and func
   - [(ref: Line 19)](templates/index.html)
 - Highlighted container for the "Latest Mars News" to capture the user’s attention. 
   - [(ref: Line 24)](templates/index.html)
-- Adjusted Hemisphere image sizes responsiveness to ensure proper visibility on various devices.
+- Adjusted Hemisphere image sizes and responsiveness to ensure proper visibility on various devices.
   - [(ref: Line 64, 66)](templates/index.html)
 
 ## Resources 
